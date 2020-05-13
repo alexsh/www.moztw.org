@@ -80,7 +80,7 @@ $links = [
     ],
 
     [
-        'id' => 'AZ8giUEH1sydBRTFCqw3BQ',
+        'id' => '@moztw_dev',
         'name' => 'MozTW dev/add-on',
         'description' => 'Mozilla/Firefox 套件與開發相關技術討論',
         'introduction' => '開發子頻道。Mozilla/Firefox 軟體技術及套件開發。',
@@ -214,6 +214,17 @@ $links = [
         'name' => 'MozTW Gamers',
         'description' => 'MozTW 台灣社群 遊戲玩家',
         'introduction' => '為提供綜合群組更清新的聊天體驗，特別將遊戲相關話題獨立至此群組，也同時更能凝聚各個遊戲玩家的情感。',
+        'tags' => [
+            'zh-tw',
+        ],
+    ],
+  
+    
+    [
+        'id' => 'AutpyEWCsVgEInowXE6eAQ',
+        'name' => 'MozTW / PrideZilla',
+        'description' => 'MozTW 臺灣社群 驕傲狐狸',
+        'introduction' => 'Diversity & Inclusion 多元包容倡議。',
         'tags' => [
             'zh-tw',
         ],
